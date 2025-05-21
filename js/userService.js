@@ -38,6 +38,7 @@ function users() {
                     <td>${element.id}</td>
                     <td>${element.name}</td>
                     <td>${element.role}</td>
+                    
                     <td><button type="button" class="btn btn-outline-info" onclick="getUser('${element.id}')">Ver</button></td>
                 </tr>
                 `
@@ -84,8 +85,8 @@ function getUser(idUser) {
                             </div>
                             <div class="modal-body">
                                 <div class="card">
-                                    <img src="${user.avatar}" class="card-img-top" alt="Avatar del usuario">
-                                    <div class="card-body">
+                                                         <td><img src="${element.image}" class="img-thumbnail" alt="imagen de la categoria"></td>
+
                                         <h5 class="card-title">Informacion del usuario</h5>
                                         <p class="card-text"> Nombre: ${user.name} </p>
                                         <p class="card-text"> Rol: ${user.role} </p>
