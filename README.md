@@ -9,6 +9,11 @@
 👨‍💻 **Johan Sebastian Galan Herrera** - 192348   
 👨‍💻 **Yhoryi David Carrascal Jaimes** - 192406  
 
+# Para autenticarse en el login, utilizar la siguiente información:
+  Correo electrónico: "john@mail.com"
+  Contraseña: changeme
+
+
 ![image](https://github.com/user-attachments/assets/af8001e0-470e-4065-9817-ca349be1d192)
 
 ![image](https://github.com/user-attachments/assets/6ab69ac3-f52b-4074-8711-dbd1560e70ee)
